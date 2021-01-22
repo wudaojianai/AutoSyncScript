@@ -19,11 +19,47 @@
 ![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/huoyuansu.png)
 
 
+------------------
+
+
 ![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/shuiyuansu.png)
 
 
 ---------------
 
+![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/yuanshenfeng.png)
+
+
+---------------
+
+![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/yuanshenbing.png)
+
+
+---------------
+
+![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/yuanshenlei.png)
+
+
+---------------
+
+![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/yuanshenyan.png)
+
+
+---------------
+
+![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/yuanshenyuren.png)
+
+
+---------------
+
+![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/yuanshenxin.png)
+
+---------------
+
+![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/yuanshenpaimeng.png)
+
+
+---------------
 ### 效果展示
 
 <img src="hicon.jpg" width="40%">
