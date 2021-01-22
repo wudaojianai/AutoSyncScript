@@ -19,6 +19,9 @@
 ![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/huoyuansu.png)
 
 
+![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/shuiyuansu.png)
+
+
 ---------------
 
 ### 效果展示
