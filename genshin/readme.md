@@ -16,7 +16,7 @@
 
 ### 图片名称对比表
 
-![预览图](.png)
+![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/huoyuansu.png)
 
 
 ---------------
