@@ -1,4 +1,4 @@
-## 原神 系列图标（现有可抽全角色 + 已公开愚人众 + 预告人物神里绫华、胡桃等）
+## 原神 系列图标（现有可抽全角色 + 已公开愚人众 + 预告人物神里绫华、胡桃等  +  神秘出的草元素白术老板）
 
 公众号少年歌行pro 原创p图，转载请注明出处
 
@@ -43,6 +43,11 @@
 ---------------
 
 ![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/yuanshenyan.png)
+
+
+---------------
+
+![预览图](https://raw.githubusercontent.com/sngxpro/icons/main/genshin/yuanshencao.png)
 
 
 ---------------
