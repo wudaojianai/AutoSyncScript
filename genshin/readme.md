@@ -70,5 +70,5 @@
 <img src="https://raw.githubusercontent.com/sngxpro/icons/main/genshin/sample2.jpg" width="40%">
 
 
-<img src="https://raw.githubusercontent.com/sngxpro/icons/main/genshin/sample3.jpg" width="40%">
+<img src="https://raw.githubusercontent.com/sngxpro/icons/main/genshin/sample3.png" width="40%">
 
